@@ -1,5 +1,6 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
+import PropTypes from 'prop-types';
 import dynamics from 'dynamics.js';
 import CloseCircle from './CloseCircle';
 import EventStack from 'active-event-stack';
